@@ -1,0 +1,45 @@
+# 知识内容许可：CC BY-NC-SA 4.0
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+本知识库的知识内容（README、论文、著作、思维模型、笔记等文本）采用
+**知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议**（CC BY-NC-SA 4.0）。
+
+完整许可文本：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+
+## 您可以
+- **共享** — 在任何媒介以任何形式复制、发行本作品
+- **演绎** — 修改、转换或以本作品为基础进行创作
+
+## 唯须遵守下列条件
+- **署名** — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否对原始作品作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人认可您或您的使用。
+- **非商业性使用** — 您不得将本作品用于商业目的。
+- **相同方式共享** — 如果您再混合、转换或者基于本作品进行创作，您必须基于与原先许可协议相同的许可协议分发您贡献的作品。
+
+**作者署名**：梁庭义（春风十里留晚霞 / 秋风万里送夕阳）
+
+---
+
+# 软件/代码部分
+如本仓库含可运行代码（元数据 Schema、AI 嵌入脚本等），代码部分采用 **MIT License**：
+
+MIT License
+
+Copyright (c) 2026 梁庭义
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
